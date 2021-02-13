@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning a lot of machine learning, finishing my thesis
 - 💞️ I’m looking to collaborate on, of course, machine learning projects.
 - 📫 You can reach me on linkedin at https://www.linkedin.com/in/ignacio-ferreira-90b430169/
-Thanks!
+- Thanks!
 
 <!---
 ignacio-ferreira-dev/ignacio-ferreira-dev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
