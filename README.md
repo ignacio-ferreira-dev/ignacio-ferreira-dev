@@ -12,5 +12,5 @@ You can click the Preview link to take a look at your changes.
 
 Medium Posts:
 
-Custom voice cloning in Spanish
-https://ignacio-ferreira-dev.medium.com/custom-voice-cloning-in-spanish-235baf180b5a
+*Custom voice cloning in Spanish
+ https://ignacio-ferreira-dev.medium.com/custom-voice-cloning-in-spanish-235baf180b5a
