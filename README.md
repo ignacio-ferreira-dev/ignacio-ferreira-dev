@@ -1,8 +1,9 @@
 - 👋 Hi, I’m Ignacio Ferreira
-- 👀 I’m interested in machine learning and all of it's applications!
-- 🌱 I’m currently learning a lot of machine learning, finishing my thesis
-- 💞️ I’m looking to collaborate on, of course, machine learning projects.
-- 📫 You can reach me on linkedin at https://www.linkedin.com/in/ignacio-ferreira-90b430169/
+- 🧠 Top notch expert in AI!
+- 👨‍💼 Founder at Dynamind Labs
+- ❤️ In love with AI and its applications
+- 🔗 Here is my LinkedIn just in case:
+- 📫 You can reach me on LinkedIn at [https://www.linkedin.com/in/ignacio-ferreira-90b430169/](https://www.linkedin.com/in/ignacio-ferreira-90b430169/)
 - Thanks!
 
 <!---
