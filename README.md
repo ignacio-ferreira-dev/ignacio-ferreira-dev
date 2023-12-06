@@ -3,7 +3,7 @@
 - 👨‍💼 Founder at Dynamind Labs
 - ❤️ In love with AI and its applications
 - 🔗 Here is my LinkedIn just in case:
-- 📫 You can reach me on LinkedIn at [https://www.linkedin.com/in/ignacio-ferreira-90b430169/](https://www.linkedin.com/in/ignacio-ferreira-90b430169/)
+- 📫 You can reach me on LinkedIn at [https://www.linkedin.com/in/ignacio-ferreira/](https://www.linkedin.com/in/ignacio-ferreira/)
 - Thanks!
 
 <!---
